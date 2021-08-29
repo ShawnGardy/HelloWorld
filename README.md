@@ -1,3 +1,5 @@
+![headshot](35485-clip-art-stick-figure-image-free-download.jpeg)
+
 # HelloWorld
 This is my first repository
 
