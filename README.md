@@ -11,3 +11,6 @@ Work With Lots of data.
 
 ## My Hobbies 
 Reading, Writting, And Arithmatic
+
+## My Favorite Books
+I enjoy The Economist and Other Non Fiction.
